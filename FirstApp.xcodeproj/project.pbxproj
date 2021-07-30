@@ -11,6 +11,7 @@
 		3638A8AB26B4850100908A56 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3638A8AA26B4850100908A56 /* ContentView.swift */; };
 		3638A8AD26B4850300908A56 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3638A8AC26B4850300908A56 /* Assets.xcassets */; };
 		3638A8B026B4850300908A56 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3638A8AF26B4850300908A56 /* Preview Assets.xcassets */; };
+		3638A8B826B4851600908A56 /* ByeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3638A8B726B4851600908A56 /* ByeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3638A8AC26B4850300908A56 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3638A8AF26B4850300908A56 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3638A8B126B4850300908A56 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3638A8B726B4851600908A56 /* ByeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ByeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3638A8A826B4850100908A56 /* FirstAppApp.swift */,
 				3638A8AA26B4850100908A56 /* ContentView.swift */,
+				3638A8B726B4851600908A56 /* ByeView.swift */,
 				3638A8AC26B4850300908A56 /* Assets.xcassets */,
 				3638A8B126B4850300908A56 /* Info.plist */,
 				3638A8AE26B4850300908A56 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3638A8B826B4851600908A56 /* ByeView.swift in Sources */,
 				3638A8AB26B4850100908A56 /* ContentView.swift in Sources */,
 				3638A8A926B4850100908A56 /* FirstAppApp.swift in Sources */,
 			);
